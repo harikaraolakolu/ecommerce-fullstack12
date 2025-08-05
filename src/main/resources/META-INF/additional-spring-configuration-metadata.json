@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "jwt.auth.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.secret_key'"
+  },
+  {
+    "name": "jwt.auth.expires_in",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.expires_in'"
+  },
+  {
+    "name": "jwt.auth.app",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.auth.app'"
+  },
+  {
+    "name": "cloudinary.cloud_name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.cloud_name'"
+  },
+  {
+    "name": "cloudinary.api_key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api_key'"
+  },
+  {
+    "name": "cloudinary.api_secret",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api_secret'"
+  },
+  {
+    "name": "cloudinary.cloud_name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.cloud_name'"
+  },
+  {
+    "name": "FILE_ZONE",
+    "type": "java.lang.String",
+    "description": "A description for 'FILE_ZONE'"
+  },
+  {
+    "name": "FILE_UPLOAD_API_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'FILE_UPLOAD_API_KEY'"
+  },
+  {
+    "name": "FILE_UPLOAD_HOST_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'FILE_UPLOAD_HOST_URL'"
+  },
+  {
+    "name": "spring.config.allow-unknown-fields",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.config.allow-unknown-fields'"
+  },
+  {
+    "name": "FILE_ZONE",
+    "type": "java.lang.String",
+    "description": "A description for 'FILE_ZONE'"
+  },
+  {
+    "name": "FILE_UPLOAD_API_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'FILE_UPLOAD_API_KEY'"
+  },
+  {
+    "name": "FILE_UPLOAD_HOST_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'FILE_UPLOAD_HOST_URL'"
+  }
+]}
